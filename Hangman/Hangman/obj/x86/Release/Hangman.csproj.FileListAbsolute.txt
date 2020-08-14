@@ -1,0 +1,9 @@
+C:\Users\james_000\Desktop\Hangman\Hangman\Hangman\bin\Release\Hangman.exe.config
+C:\Users\james_000\Desktop\Hangman\Hangman\Hangman\bin\Release\Hangman.exe
+C:\Users\james_000\Desktop\Hangman\Hangman\Hangman\bin\Release\Hangman.pdb
+C:\Users\james_000\Desktop\Hangman\Hangman\Hangman\obj\x86\Release\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\james_000\Desktop\Hangman\Hangman\Hangman\obj\x86\Release\Hangman.Form1.resources
+C:\Users\james_000\Desktop\Hangman\Hangman\Hangman\obj\x86\Release\Hangman.Properties.Resources.resources
+C:\Users\james_000\Desktop\Hangman\Hangman\Hangman\obj\x86\Release\Hangman.csproj.GenerateResource.Cache
+C:\Users\james_000\Desktop\Hangman\Hangman\Hangman\obj\x86\Release\Hangman.exe
+C:\Users\james_000\Desktop\Hangman\Hangman\Hangman\obj\x86\Release\Hangman.pdb
