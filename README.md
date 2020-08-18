@@ -1,4 +1,5 @@
-# HangMan 
+# HangMan
+Author: Yihui Wang
 ## Project Description
 Hangman, literally means "the hanged man", is a game of guessing words. The computer produces a word, and the player guesses every letter in the word. The computer extracts the letters of the word, leaving only a corresponding amount of blanks and underscores.
 
