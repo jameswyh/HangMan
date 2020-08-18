@@ -8,7 +8,7 @@ This program uses an English vocabulary database (about 15,000 words), and uses 
 
 ## Demo
 1. Start interface, click the Start button to start the game
-![](blob:https://stackedit.io/33a6a9a3-f7a6-41e6-9d4b-00adf0e31650)
+![pic1](blob:https://stackedit.io/33a6a9a3-f7a6-41e6-9d4b-00adf0e31650)
 2. Game interface, the left side is the display interface, and the right side is the operation interface (all keys have a key tone)
 ![](blob:https://stackedit.io/23a24673-4adf-4325-b72f-02766a8d7fd3)
 3. After the game starts, the countdown starts for 30 seconds, the background music is played, and the player clicks the letters in the alphabet area to guess the word
