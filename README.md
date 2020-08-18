@@ -22,6 +22,6 @@ This program uses an English vocabulary database (about 15,000 words), and uses 
 ## Function button
 ![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/buttom1.png)：Randomly display a letter in a word as a reminder, and can only be used once per round
 
-![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/buttom1.png)：Display the Chinese explanation of the word as a reminder
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/buttom2.png)：Display the Chinese explanation of the word as a reminder
 
-![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/buttom1.png)：Skip current word
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/buttom3.png)：Skip current word
