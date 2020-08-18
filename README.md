@@ -8,20 +8,20 @@ This program uses an English vocabulary database (about 15,000 words), and uses 
 
 ## Demo
 1. Start interface, click the Start button to start the game
-![pic1](blob:https://stackedit.io/33a6a9a3-f7a6-41e6-9d4b-00adf0e31650)
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/Picture1.png)
 2. Game interface, the left side is the display interface, and the right side is the operation interface (all keys have a key tone)
-![](blob:https://stackedit.io/23a24673-4adf-4325-b72f-02766a8d7fd3)
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/Picture2.png)
 3. After the game starts, the countdown starts for 30 seconds, the background music is played, and the player clicks the letters in the alphabet area to guess the word
-![](blob:https://stackedit.io/c2c28f5c-87f0-4898-b061-69343c4a7d53)
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/Picture3.png)
 4. If the letter is guessed incorrectly 7 times, the game ends, the playback fails the sound effect, the background music stops, the answer is announced, click the Restart button to restart
-![](blob:https://stackedit.io/16412be6-717e-4b9a-aee5-910fc6e70d40)
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/Picture4.png)
 5. If the countdown is 0s, the game ends, the playback fails the sound effect, the background music stops, announce the answer, click the Restart button to restart
-![](blob:https://stackedit.io/db0648e7-6cc3-49d0-beb2-33af7188d35e)
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/Picture5.png)
 6. After guessing the word correctly, the score is +10, the sound effect is successful, the background music does not stop, and the Chinese explanation is displayed. Click the Continue button to continue the game
-![](blob:https://stackedit.io/db785afd-c7f5-47a6-8ac4-d626e50eb23a)
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/Picture6.png)
 ## Function button
-![](blob:https://stackedit.io/4e48b0b2-38fa-4ed9-bd96-942b353d72da)：Randomly display a letter in a word as a reminder, and can only be used once per round
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/buttom1.png)：Randomly display a letter in a word as a reminder, and can only be used once per round
 
-![](blob:https://stackedit.io/4455c931-8238-4da5-9d45-45787a887d3b)：Display the Chinese explanation of the word as a reminder
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/buttom1.png)：Display the Chinese explanation of the word as a reminder
 
-![](blob:https://stackedit.io/a4999909-986a-4f61-b825-62eba1f81426)：Skip current word
+![](https://github.com/jameswyh/HangMan_Game/blob/master/DemoPic/buttom1.png)：Skip current word
